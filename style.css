@@ -135,9 +135,19 @@ label {
     background-color: #E71B32;
 }
 
+.media-fraca {
+    width: 35%;
+    background-color: #ee9127;
+}
+
 .media {
-    background-color: #FAF408;
+    background-color: #df90f3;
     width: 50%;
+}
+
+.media-forte {
+    width: 75%;
+    background-color: #1ba6e7;
 }
 
 .forte {
